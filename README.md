@@ -64,9 +64,9 @@ You can view the complete code for this application [here](MyForm.h).
 - **Visual Studio**: Required for C++/CLI development.
 - **.NET Framework**: Needed for running Windows Forms applications.
 - 
-## My Form.h
+## My Form.cpp
 
-- Add Following in My Form.h filw  [here](MyForm.cpp)
+- Add Following in My Form.cpp file  [here](MyForm.cpp)
   
 ## Installation
 
