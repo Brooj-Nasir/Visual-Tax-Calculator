@@ -57,7 +57,7 @@ The `MyForm` class defines a Windows Forms application that performs the followi
 
 ## Code File
 
-You can view the complete code for this application [here](MyForm.cpp).
+You can view the complete code for this application [here](MyForm.h).
 
 ## Requirements
 
@@ -66,7 +66,7 @@ You can view the complete code for this application [here](MyForm.cpp).
 - 
 ## My Form.h
 
-- Add Following in My Form.h filw  [here](MyForm.h)
+- Add Following in My Form.h filw  [here](MyForm.cpp)
   
 ## Installation
 
